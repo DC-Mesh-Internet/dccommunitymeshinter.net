@@ -21,7 +21,6 @@
 <body class="helvetica flex flex-column justify-between" style="minHeight: 100vh">
     <div>
 	{{ if and .Page.File (ne .Page.File.TranslationBaseName "join") }}
-        {{ partial "alert" . }}
         {{ end }}
         {{ partial "header" . }}
         {{ block "main" . }}
