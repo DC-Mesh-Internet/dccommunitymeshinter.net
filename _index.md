@@ -1,5 +1,5 @@
 ---
-title: "NYC Mesh"
+title: "DC Community Mesh Internet"
 description: "Join our community-owned network"
 images: ["/img/3d.png"]
 alertTitle: "Network status updates"
@@ -16,12 +16,10 @@ alertURL: "/network-status"
 
 ### <a href="/donate" class="green">Donate</a> to help us expand
 
-The Internet is central to our lives, but in New York City far too many people don’t have access.
+Internet is becoming more and more inaccessible. Internet Service Providers no longer provide cheap or good services. This seeks to do both.
 
-We are a diverse group of volunteers dedicated to ending the digital divide and extending  high-speed, reliable internet to all New Yorkers. You can help by joining our community network to get online, volunteering to connect neighbors or grow the network, and donating to improve our community infrastructure and ensure access for all.
-
-NYC Mesh is a neutral network and we do not monitor, collect, store or block any user data or content. By joining our network you agree to extend it to others!
+DC CMI will be a neutral network and will not monitor, collect, store or block any user data or content. By joining our network you agree to extend it to others!
 
 We can connect your apartment to the internet by putting an antenna on the roof of your building and running a cable to your apartment.
 
-We can also connect your whole building using fiber with speeds of 10 gigabit or more. Ask us about fiber to the home (FTTH). We are currently working with NYCHA and HPD on multiple large projects.
+Right now the start up goal is 300 Mbps Up / Down. But with goals for higher speeds if there is a demand for it. We are starting small.

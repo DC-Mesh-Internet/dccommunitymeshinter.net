@@ -1,4 +1,4 @@
-title = "NYC Mesh"
+title = "DC Community Mesh Internet"
 baseURL = "https://www.nycmesh.net/"
 defaultContentLanguage = "en"
 pygmentsCodefences = true
@@ -6,7 +6,7 @@ pygmentsCodefencesGuessSyntax = true
 summaryLength = 10
 
 [params]
-  title = "NYC Mesh"
+  title = "DC Community Mesh Internet"
   description = "Join our community-owned network to replace your current internet connection."
   images = ["/img/3d.png"]
 

@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  hugo:
+    image: rossigee/hugo:latest
+    ports:
+      - "1313:1313"
+    volumes:
+      - .:/src
+    working_dir: /src
+    command: hugo server --bind 0.0.0.0 --baseURL=http://localhost:1313
+    restart: unless-stopped
