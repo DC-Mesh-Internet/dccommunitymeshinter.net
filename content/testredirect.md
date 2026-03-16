@@ -1,4 +1,4 @@
 ---
 type: redirect
-target: https://wiki.nycmesh.net
+target: https://wiki.dccommunitymeshinter.net
 ---

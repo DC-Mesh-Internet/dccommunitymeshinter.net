@@ -1,4 +1,4 @@
 ---
 type: redirect
-target: https://db.nycmesh.net
+target: https://db.dccommunitymeshinter.net
 ---

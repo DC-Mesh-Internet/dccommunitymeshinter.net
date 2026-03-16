@@ -13,7 +13,7 @@ We will help you with-
 * Lease and insurance paperwork if needed
 * Dedicated Mesh contact to coordinate everything
 
-[We have a FAQ below, but please email us with your specific questions!](mailto:building@nycmesh.net?subject=Building-Install)
+[We have a FAQ below, but please email us with your specific questions!](mailto:building@dccommunitymeshinter.net?subject=Building-Install)
 
 If you can get 50 or more apartments to sign we will do a fiber install and we can waive the fiber lease and data costs. There will still be an install cost per-apartment of $290, or $40 per month for six months for those who can't afford the up-front cost.
 
@@ -25,7 +25,7 @@ Here is a [presentation about building installs](http://bit.ly/NYCMesh-presentat
 
 > *How will billing work, both install fees and recurring monthly donations?*
 
-We have automated secure credit card transactions through Stripe. Individuals can easily set these up and edit the amounts. The individual install fee is paid here- https://nycmesh.net/pay
+We have automated secure credit card transactions through Stripe. Individuals can easily set these up and edit the amounts. The individual install fee is paid here- https://dccommunitymeshinter.net/pay
 
 With management companies we send an invoice and they use their normal payment method (checks, ACH, credit cards etc)
  

@@ -3,7 +3,7 @@ title: "DC Community Mesh Internet"
 description: "Join our community-owned network"
 images: ["/img/3d.png"]
 alertTitle: "Network status updates"
-alertURL: "https://status.nycmesh.net/"
+alertURL: "https://status.dccommunitymeshinter.net/"
 ---
 
 ## (SITE IN PROGRESS)

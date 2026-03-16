@@ -9,7 +9,7 @@ Thanks for your interest in becoming a member of NYC Mesh. NYC Mesh is a nonprof
 Volunteers finished connecting The Olmsted to NYC Mesh in 2024, and any resident can now get connected and optionally replace their existing internet service.
 
 ## How does it work?
-If you haven't already, fill out the Join form at https://nycmesh.net/join. A volunteer will then take that information and reach out to you to find a time to perform the installation. After the installation is complete, you will be walked through the payment process
+If you haven't already, fill out the Join form at https://dccommunitymeshinter.net/join. A volunteer will then take that information and reach out to you to find a time to perform the installation. After the installation is complete, you will be walked through the payment process
 
 ## How much does it cost?
 As a special deal for Olmsted, NYC Mesh asks for a $220 to cover the cost of the installation equipment, and an optional but recommended monthly subscription of $30 afterwards. This can be paid for all at once with almost any payment method, or can be paid on a monthly basis with a credit card.
@@ -37,4 +37,4 @@ The standard install is 1Gbps for upload and download.
 This service is for internet only.  You can stream TV by using services such as Roku, Hulu, etc. using your NYC Mesh connection but they are independent from Mesh itself.
 
 ## How does support work?
-NYC Mesh has a robust volunteer support community, reachable in a variety of methods. The primary method of getting support is to visit https://www.nycmesh.net/support which has up-to-date contact information. There you can find the NYC Mesh Support phone number, email address, and more.
+NYC Mesh has a robust volunteer support community, reachable in a variety of methods. The primary method of getting support is to visit https://www.dccommunitymeshinter.net/support which has up-to-date contact information. There you can find the NYC Mesh Support phone number, email address, and more.

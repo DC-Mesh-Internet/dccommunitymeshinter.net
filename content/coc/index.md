@@ -44,7 +44,7 @@ The following types of behavior are unacceptable at NYC Mesh, both online and in
 
 ## Reporting
 
-Please report code of conduct violations either to the event organizer, by emailing [safe@nycmesh.net](mailto:safe@nycmesh.net) or by alerting moderators on Slack with the `@moderators` group tag.
+Please report code of conduct violations either to the event organizer, by emailing [safe@dccommunitymeshinter.net](mailto:safe@dccommunitymeshinter.net) or by alerting moderators on Slack with the `@moderators` group tag.
 
 All of our moderators are volunteers, and will respond with their best effort. However, if you provide your name, or contact info we promise to respond within two business days.
 

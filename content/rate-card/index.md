@@ -29,14 +29,14 @@ Speeds vary due to distance from our main antennas, type of connection (point to
 NYC Mesh is a neutral network and it does not have any network management practices that are specific to any application or subscriber.
 
 
-Additional information on network management can be found in NYC Mesh's Network Commons License- [nycmesh.net/ncl.pdf](../ncl.pdf) 
+Additional information on network management can be found in NYC Mesh's Network Commons License- [dccommunitymeshinter.net/ncl.pdf](../ncl.pdf) 
 
 ## Privacy Policy:  
-We are a neutral network and we do not monitor, collect, store or block any user data or content. More information about our commitment to privacy is available in our privacy policy- [nycmesh.net/privacy-policy](../privacy-policy)
+We are a neutral network and we do not monitor, collect, store or block any user data or content. More information about our commitment to privacy is available in our privacy policy- [dccommunitymeshinter.net/privacy-policy](../privacy-policy)
  
 ## Support:
 
-https://www.nycmesh.net/support
+https://www.dccommunitymeshinter.net/support
 
 ## FCC Resources
 Learn more about the terms used on this form and other relevant information at the following FCC's links:  

@@ -65,4 +65,4 @@ NYC Mesh is in need of the following:
 
 Gigabit hardware that we can use such as switches, servers, routers, Antennas.<br>
 
-If you can help us out in any way, please email us at: [contact@nycmesh.net](mailto:contact@nycmesh.net)
+If you can help us out in any way, please email us at: [contact@dccommunitymeshinter.net](mailto:contact@dccommunitymeshinter.net)

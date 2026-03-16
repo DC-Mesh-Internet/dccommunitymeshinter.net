@@ -2,18 +2,18 @@
 title: "Order, Download and Flash"
 ---
 
-**This page is outdated. We are not installing new NanoStations. Please see [our docs](https://docs.nycmesh.net) for our latest instructions.** 
+**This page is outdated. We are not installing new NanoStations. Please see [our docs](https://docs.dccommunitymeshinter.net) for our latest instructions.** 
 
 Please read our [FAQ](/faq) if you haven't already.
 
 **Join the mesh**  
 First you need to enter a [new node request](/join). This will add your router to our list of node requests and put your location on our map. If you have multiple locations enter them separately. If you are within range of a supernode and have line-of-sight you may be able to connect directly. Otherwise we will try to connect you to a nearby rooftop.
 
-To connect to the supernode, please [contact us](mailto:install@nycmesh.net) and we will advise. This usually uses a LiteBeamAC or NanoBeamAC. Configuration info is [here](https://docs.nycmesh.net/installs/cpe).
+To connect to the supernode, please [contact us](mailto:install@dccommunitymeshinter.net) and we will advise. This usually uses a LiteBeamAC or NanoBeamAC. Configuration info is [here](https://docs.dccommunitymeshinter.net/installs/cpe).
 
-To setup a rooftop to rooftop connection we now use [Mikrotik Omnitiks](https://docs.nycmesh.net/hardware/mikrotikomnitik5ac/)
+To setup a rooftop to rooftop connection we now use [Mikrotik Omnitiks](https://docs.dccommunitymeshinter.net/hardware/mikrotikomnitik5ac/)
 
-**Our network started with NanoStation M5s running OpenWrt firmware and we still have many of these running and maintained. It became difficult to keep up with hardware changes and people have reported it as impossible to install OpenWrt on the newest models. These instructions are left here for people who want to experiment or maintain older hardware. Please see [our docs](https://docs.nycmesh.net) for our latest instructions.** 
+**Our network started with NanoStation M5s running OpenWrt firmware and we still have many of these running and maintained. It became difficult to keep up with hardware changes and people have reported it as impossible to install OpenWrt on the newest models. These instructions are left here for people who want to experiment or maintain older hardware. Please see [our docs](https://docs.dccommunitymeshinter.net) for our latest instructions.** 
 
 To join two rooftops you can use two NanoStation M5s. You can also just set up a public access point and aim it towards the street. It is best to figure out exactly what kind of connection you are making before proceeding. Chat with us first to make sure.
 
@@ -63,11 +63,11 @@ Wait ten minutes or so. It now has a SSID name like "-NYC Mesh- 1a2b" and a rand
 
 *   Plug an ethernet cable from LAN on your current router to LAN on the power supply, and from POE to the **secondary** input on the NanoStation.
 
-*   <a href="mailto:newnode@nycmesh.net">Email us</a> and we will check that everything is working and add you to the mesh. You must do this as we manually configure the tinc tunneling for each newly flashed router.
+*   <a href="mailto:newnode@dccommunitymeshinter.net">Email us</a> and we will check that everything is working and add you to the mesh. You must do this as we manually configure the tinc tunneling for each newly flashed router.
 
-**You must also install a watchdog script to keep the network stable**. [Here are the instructions](/blog/watchdog). <a href="mailto:newnode@nycmesh.net">Email us</a> if you are not comfortable doing this. This script will be included in the next version of our firmware.
+**You must also install a watchdog script to keep the network stable**. [Here are the instructions](/blog/watchdog). <a href="mailto:newnode@dccommunitymeshinter.net">Email us</a> if you are not comfortable doing this. This script will be included in the next version of our firmware.
 
-Now your router is flashed, read how to [install a NanoStation](https://docs.nycmesh.net/installs/nsm5/)
+Now your router is flashed, read how to [install a NanoStation](https://docs.dccommunitymeshinter.net/installs/nsm5/)
 
 **Upgrades**  
 Upgrades are for when your router is already running nycmesh/qMp or another version of OpenWrt.
@@ -85,7 +85,7 @@ Upgrades are for when your router is already running nycmesh/qMp or another vers
 
 **Am I on the mesh?**
 
-After you successfully flash your router and you have <a href="mailto:newnode@nycmesh.net">emailed us</a>, and we have added your tinc tunneling key, you should be on the mesh. If you re-flash your router (not usually necessary) you will have to email us again so we can add your new tinc tunneling key. Emailing us also lets us know who's router was just flashed.
+After you successfully flash your router and you have <a href="mailto:newnode@dccommunitymeshinter.net">emailed us</a>, and we have added your tinc tunneling key, you should be on the mesh. If you re-flash your router (not usually necessary) you will have to email us again so we can add your new tinc tunneling key. Emailing us also lets us know who's router was just flashed.
 
 A quick test to see if you are on the mesh is to go here-
 [http://10.100.4.10/](http://10.100.4.10/)
@@ -111,4 +111,4 @@ Wait ten minutes or so and connect to the router via Wi-Fi. It now has a SSID na
 
 *   Plug an ethernet cable from LAN on your current router to the blue WAN on the TP-Link.
 
-*   <a href="mailto:contact@nycmesh.net">Email us</a> and we will check that everything is working.
+*   <a href="mailto:contact@dccommunitymeshinter.net">Email us</a> and we will check that everything is working.

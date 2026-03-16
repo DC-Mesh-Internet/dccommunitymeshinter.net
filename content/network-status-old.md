@@ -3,7 +3,7 @@ title: "Network status"
 aliases: [/status/]
 ---
 
-<h1>This status page is no longer in use, please see the new status page at [status.nycmesh.net](https://www.status.nycmesh.net)</h1>
+<h1>This status page is no longer in use, please see the new status page at [status.dccommunitymeshinter.net](https://www.status.dccommunitymeshinter.net)</h1>
 
 
 2023-10-4
@@ -24,7 +24,7 @@ We are working to get a volunteer on site to restore power and expect to have to
 
 2023-8-4
 
-8:00pm backup connection is now functioning well. If you are having any problems at all, please go to [nycmesh.net/support](../support) so we can quickly fix it!
+8:00pm backup connection is now functioning well. If you are having any problems at all, please go to [dccommunitymeshinter.net/support](../support) so we can quickly fix it!
 
 5:00pm Our SN3 Supernode in Brooklyn is currently having problems with our transit connection due to ConEd work. We have almost resolved this problem with backup connections. ConEd work is due to be completed by 8pm tomorrow (Saturday)
 
@@ -72,7 +72,7 @@ For the others it should be working with maybe some DNS issues. You can adjust y
 
 We are still upgrading the network. If you have any problem at all please fill in a support ticket immediately. This will help us a lot!
 
-https://www.nycmesh.net/support
+https://www.dccommunitymeshinter.net/support
 
 1:30pm fixed a problem at SN1 which was resulting in slow download speeds in Manhattan
 
@@ -200,7 +200,7 @@ Our Vernon hub had power issues from 9am until around noon. This is fixed now.
 2021-10-04
 
 2:20am There is an issue at the Parallel hub (Greenpoint) which is affecting connections in the area going through that hub. We are working on it.
-https://www.nycmesh.net/map/nodes/1167-1084-115
+https://www.dccommunitymeshinter.net/map/nodes/1167-1084-115
 
 2021-9-10
 
@@ -277,7 +277,7 @@ Midnight: Speeds have been restored.
 
 2021-3-11
 
-6:00pm The bandwidth dropped for Saratoga and SN1 earlier this afternoon. We have fixed most of the problems as of 6pm and you should have your usual speeds now. The cause was some interference today in the city (a "DFS event") that caused some sectors to switch channels. If you are having any further problems please [fill in a support ticket](https://www.nycmesh.net/support)
+6:00pm The bandwidth dropped for Saratoga and SN1 earlier this afternoon. We have fixed most of the problems as of 6pm and you should have your usual speeds now. The cause was some interference today in the city (a "DFS event") that caused some sectors to switch channels. If you are having any further problems please [fill in a support ticket](https://www.dccommunitymeshinter.net/support)
 
 
 2021-2-13
@@ -302,7 +302,7 @@ Major upgrade to Saratoga completed. This should improve speeds for much of Broo
 
 2021-2-1
 
-20:54 Downtown Manhattan should be back :-) Snow seems to have been the culprit. If you have any further problems please [fill in a support ticket](https://www.nycmesh.net/support)
+20:54 Downtown Manhattan should be back :-) Snow seems to have been the culprit. If you have any further problems please [fill in a support ticket](https://www.dccommunitymeshinter.net/support)
 
 4:00pm Downtown Manhattan is currently having problems possibly related to the weather. We are looking into it now.
 
@@ -333,7 +333,7 @@ We had slow speeds this morning in parts of Brooklyn caused by a routing problem
 
 2020-12-7
 
-6:30pm Our Saratoga hub experienced a slowdown for an hour. If you are still having any problems please [fill in the support form](https://nycmesh.net/support)
+6:30pm Our Saratoga hub experienced a slowdown for an hour. If you are still having any problems please [fill in the support form](https://dccommunitymeshinter.net/support)
 
 2020-12-3
 
@@ -345,7 +345,7 @@ We had slow speeds this morning in parts of Brooklyn caused by a routing problem
 
 2020-11-9
 
-21:00 PH is back online. The network is running well. If you have any problems please [fill in the support form](https://nycmesh.net/support)
+21:00 PH is back online. The network is running well. If you have any problems please [fill in the support form](https://dccommunitymeshinter.net/support)
 
 20:15 There is a problem with our PH hub in Brooklyn. We are looking into it now.
 

@@ -1,5 +1,5 @@
 title = "DC Community Mesh Internet"
-baseURL = "https://www.nycmesh.net/"
+baseURL = "https://www.dccommunitymeshinter.net/"
 defaultContentLanguage = "en"
 pygmentsCodefences = true
 pygmentsCodefencesGuessSyntax = true

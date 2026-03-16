@@ -51,7 +51,7 @@ Wait ten minutes or so and connect to the router via Wi-Fi. It now has a SSID na
 
 *   Plug an ethernet cable from LAN on your current router to the blue WAN on the TP-Link.
 
-*   <a href="mailto:contact@nycmesh.net">Email us</a> and we will check that everything is working.
+*   <a href="mailto:contact@dccommunitymeshinter.net">Email us</a> and we will check that everything is working.
 
 **NanoStation NSM5 instructions**  
  (for old NSM5s or if you are upgrading see below)
@@ -85,7 +85,7 @@ Wait ten minutes or so. It now has a SSID name like "nycmesh 1a2b" and a random 
 
 *   Plug an ethernet cable from LAN on your current router to LAN on the power supply, and from POE to the **secondary** input on the NanoStation.
 
-*   <a href="mailto:contact@nycmesh.net">Email us</a> and we will check that everything is working.
+*   <a href="mailto:contact@dccommunitymeshinter.net">Email us</a> and we will check that everything is working.
 
 **Upgrades**  
 Upgrades are for when your router is already running nycmesh/qMp or another version of OpenWrt.
