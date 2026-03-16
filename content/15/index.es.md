@@ -6,7 +6,7 @@ title: "Instalación Subsidiada"
 
 ¡Gracias por instalar un nodo de la red Mesh!
 
-El costo de instalación subsidiado de NYC Mesh es de $15/mes, pagado durante 10 meses. Después de los 10 meses, se convierte en una donación mensual.
+El costo de instalación subsidiado de DC Mesh es de $15/mes, pagado durante 10 meses. Después de los 10 meses, se convierte en una donación mensual.
 
 Por favor, recuerde también pagar $50 al instalador.
 

@@ -1,13 +1,10 @@
 ---
-title: "NYC Mesh Community Network Rate Card"
+title: "DC Mesh Community Network Rate Card"
 ---
 
-## NYC MESH MEMBERSHIP OFFERINGS (MONTH-TO-MONTH PLAN)
+## DC MESH MEMBERSHIP OFFERINGS (MONTH-TO-MONTH PLAN)
 
-NYC Mesh Internet  	
-$20.00 Optional Donation  
-$50.00 Optional Donation  
-$100.00 Optional Donation  (business)
+TODO
 
 ## OTHER CHARGES AND TERMS
  
@@ -16,20 +13,14 @@ Charges for additional data usage:	**No Charge**
 
 ## STANDARD ONE-TIME-CHARGES
  
-Self-Installation (DIY)	$0 
-
-Volunteer led install $290 (standard) or $160 (subsidized)
-* Rates my vary for non standard events or service requests.
+TODO
  
 ## PERFORMANCE: INDIVIDUAL EXPERIENCE MAY VARY
 
-Speeds vary due to distance from our main antennas, type of connection (point to point, multipoint, fiber). Wireless connection speeds vary considerably. NYC Mesh uses best-effort for speed and support.
+Speeds vary due to distance from our main antennas, type of connection (point to point, multipoint, fiber). Wireless connection speeds vary considerably. DC Mesh uses best-effort for speed and support.
 
 ## Network Management:  
-NYC Mesh is a neutral network and it does not have any network management practices that are specific to any application or subscriber.
-
-
-Additional information on network management can be found in NYC Mesh's Network Commons License- [dccommunitymeshinter.net/ncl.pdf](../ncl.pdf) 
+DC Mesh is a neutral network and it does not have any network management practices that are specific to any application or subscriber.
 
 ## Privacy Policy:  
 We are a neutral network and we do not monitor, collect, store or block any user data or content. More information about our commitment to privacy is available in our privacy policy- [dccommunitymeshinter.net/privacy-policy](../privacy-policy)
@@ -44,4 +35,4 @@ Learn more about the terms used on this form and other relevant information at t
 * https://www.fcc.gov/consumers/guides/consumer-labels-broadband-services?from=home	
 
 
-Membership available: New York Metropolitan Area
+Membership available: District of Columbia Area

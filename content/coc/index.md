@@ -4,13 +4,13 @@ title: "Code of Conduct"
 toc: true
 ---
 
-NYC Mesh is dedicated to fostering an environment in which everyone can participate in our meetups, installs, online spaces, and any other community event.
+DC Mesh is dedicated to fostering an environment in which everyone can participate in our meetups, installs, online spaces, and any other community event.
 
 We believe that diversity in our community is critical and should be celebrated.
 We welcome everyone of any race, age, gender, nationality, gender identity and expression, sexual orientation, disability, physical appearance, body size, religion, education, and skill level.
-The NYC Mesh community and experience often extends outside those spaces.
+The DC Mesh community and experience often extends outside those spaces.
 Members meet in person to collaborate on projects, attend related meetups or conferences together, and communicate on social media.
-Abusive or unwelcoming behavior between NYC Mesh Members still has a profound impact on individuals and on the community when it happens beyond our events and online forums.
+Abusive or unwelcoming behavior between DC Mesh Members still has a profound impact on individuals and on the community when it happens beyond our events and online forums.
 We will use our discretion when deciding whether to enforce this code of conduct after reports of such behavior happening outside of our spaces, taking into account the impact on the individual Members involved as well as the impact on the community at large.
 
 ## Types of Behavior
@@ -28,7 +28,7 @@ All participants are expected to: be considerate, respectful, and collaborative.
 
 ### Unacceptable Behavior
 
-The following types of behavior are unacceptable at NYC Mesh, both online and in-person, and constitute code of conduct violations.
+The following types of behavior are unacceptable at DC Mesh, both online and in-person, and constitute code of conduct violations.
 
 #### Abusive Behavior
 
@@ -38,8 +38,8 @@ The following types of behavior are unacceptable at NYC Mesh, both online and in
 
 #### Unwelcoming Behavior
 
-* **Blatant -isms** — saying things that are explicitly racist, sexist, homophobic, etc. For example, arguing that some people are less intelligent because of their gender, race or religion. [Subtle -isms](https://www.recurse.com/social-rules#no-subtle-isms) and small mistakes made in conversation are not code of conduct violations. However, repeating something after it has been pointed out to you that you made a member feel unwelcome, broke a social rule, or antagonizing or arguing with someone who has pointed out your subtle -ism is considered unwelcoming behavior, and is not allowed in NYC Mesh.
-* **Maliciousness towards other Members** — deliberately attempting to make others feel bad, name-calling, singling out others for derision or exclusion. For example, telling someone they’re not technical enough, or that they don’t belong in NYC Mesh.
+* **Blatant -isms** — saying things that are explicitly racist, sexist, homophobic, etc. For example, arguing that some people are less intelligent because of their gender, race or religion. [Subtle -isms](https://www.recurse.com/social-rules#no-subtle-isms) and small mistakes made in conversation are not code of conduct violations. However, repeating something after it has been pointed out to you that you made a member feel unwelcome, broke a social rule, or antagonizing or arguing with someone who has pointed out your subtle -ism is considered unwelcoming behavior, and is not allowed in DC Mesh.
+* **Maliciousness towards other Members** — deliberately attempting to make others feel bad, name-calling, singling out others for derision or exclusion. For example, telling someone they’re not technical enough, or that they don’t belong in DC Mesh.
 * **Being especially unpleasant** — for example, if we’ve received reports from multiple members of annoying, rude, or especially distracting behavior. For example, repeatedly engaging in bad faith arguments, talking down to people, or excluding people from participation.
 
 ## Reporting
@@ -56,15 +56,15 @@ In your report, please include:
 	* If the violation happened online, please link to or send us the relevant text.
 	* If the violation happened in person, please detail exactly what the other person said or did. In order to take action, we need to know the concrete actions that someone took.
 * **Where and when the incident happened**
-* **Any other relevant context**. Do you have examples of a pattern of similar behavior from this person before? Do you have a relationship with this person outside of NYC Mesh?
+* **Any other relevant context**. Do you have examples of a pattern of similar behavior from this person before? Do you have a relationship with this person outside of DC Mesh?
 * **If/how you’ve already responded** — this lets us know the current state of the situation.
 
 
 ### Why to Report
 
-* **You are Responsible for making NYC Mesh a safe and comfortable space for everyone.** Everyone in our community shares this responsibility. Our volunteer Mesh Moderators are not around all the time, so we cannot enforce the code of conduct without your help.
-* **The consequences for NYC Mesh of not reporting bad behavior outweigh the consequences for one person of reporting it.** We sometimes hear “I don’t want X person to meet consequences because I told someone about their bad behavior.” Consider the impact on everyone else at NYC Mesh of letting their behavior continue unchecked.
-* NYC Mesh only works as a self-directed, community-driven effort because of shared trust between members. **Reporting code of conduct violations helps us identify when this trust is broken, to prevent that from happening in the future.**
+* **You are Responsible for making DC Mesh a safe and comfortable space for everyone.** Everyone in our community shares this responsibility. Our volunteer Mesh Moderators are not around all the time, so we cannot enforce the code of conduct without your help.
+* **The consequences for DC Mesh of not reporting bad behavior outweigh the consequences for one person of reporting it.** We sometimes hear “I don’t want X person to meet consequences because I told someone about their bad behavior.” Consider the impact on everyone else at DC Mesh of letting their behavior continue unchecked.
+* DC Mesh only works as a self-directed, community-driven effort because of shared trust between members. **Reporting code of conduct violations helps us identify when this trust is broken, to prevent that from happening in the future.**
 
 
 ## Enforcement Guidelines

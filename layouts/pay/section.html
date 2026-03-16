@@ -18,7 +18,7 @@ input[type=number]::-webkit-outer-spin-button {
     </div>
 
     <p>
-      The NYC Mesh total install cost of $290 is due on completion. <b>$240</b> covers the average cost of the equipment and the lead installer receives <b>$50</b> for expenses.
+      The DC Mesh total install cost of $290 is due on completion. <b>$240</b> covers the average cost of the equipment and the lead installer receives <b>$50</b> for expenses.
 <br>
 <br>
 We also have subsidized and installment payment options:
@@ -81,7 +81,7 @@ Thank you for choosing to cover the full cost of equipment.
       <!-- Donation Details -->
       <div class="gray serif pb3 pt2 mw6">
         <p class="f6 lh-copy i tc-l tl measure">
-          All donations will go towards our expenses and are tax deductible. NYC Mesh is a 501(c)(3) non-profit organization.
+          All donations will go towards our expenses and are tax deductible. DC Mesh is a 501(c)(3) non-profit organization.
         </p>
       </div>
     </div>	
@@ -210,7 +210,7 @@ Thank you for choosing to cover the full cost of equipment.
       if (parseInt(donationAmount) && donationAmount > 0) {
         handler = StripeCheckout.configure(stripeConfig);
         handler.open({
-          name: 'NYC Mesh',
+          name: 'DC Mesh',
           description: 'Donation',
           amount: donationAmount
         });

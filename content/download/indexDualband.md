@@ -23,9 +23,9 @@ For indoors-
 A dual-band router can mesh over-the-air (or by ethernet) with both the Ubiquiti and other TP-Links. The single band router can mesh over-the-air with other TP-Links, and it can connect to the Ubiquiti via ethernet cable.
 
 Buy on Amazon:  
-[Ubiquiti NanoStation NSM5](https://www.amazon.com/dp/B0049AVWAO/?tag=nsm5-nycmesh-20)  
-[TP-Link router TL-WR842ND](https://www.amazon.com/dp/B006E04T9I/?tag=tl-wr842nd-nycmesh-20)  
-[TP-Link dual-band router TL-WDR3600](https://www.amazon.com/dp/B008RV51EE/-nycmesh-20)
+[Ubiquiti NanoStation NSM5](https://www.amazon.com/dp/B0049AVWAO/?tag=nsm5-dcmesh-20)  
+[TP-Link router TL-WR842ND](https://www.amazon.com/dp/B006E04T9I/?tag=tl-wr842nd-dcmesh-20)  
+[TP-Link dual-band router TL-WDR3600](https://www.amazon.com/dp/B008RV51EE/-dcmesh-20)
 
 Buy at B&H: (free delivery)  
 [Ubiquiti NanoStation NSM5](http://www.bhphotovideo.com/c/product/1049768-REG/)  
@@ -47,7 +47,7 @@ Buy at B&H: (free delivery)
 *   Click System Tools>Firmware upgrade
 *   Click "choose file" and select the image you downloaded and click "upgrade"
 
-Wait ten minutes or so and connect to the router via Wi-Fi. It now has a SSID name like "nycmesh 1a2b" and a random IP of the form 10.x.x.x
+Wait ten minutes or so and connect to the router via Wi-Fi. It now has a SSID name like "dcmesh 1a2b" and a random IP of the form 10.x.x.x
 
 *   Plug an ethernet cable from LAN on your current router to the blue WAN on the TP-Link.
 
@@ -81,22 +81,22 @@ FOLLOW ALL THE STEPS OR YOU MAY PERMANENTLY BRICK THE ROUTER!
 *   Click "Upload"
 *   You will get a "third-party" warning. Ignore this and click "Update"
 
-Wait ten minutes or so. It now has a SSID name like "nycmesh 1a2b" and a random IP of the form 10.x.x.x
+Wait ten minutes or so. It now has a SSID name like "dcmesh 1a2b" and a random IP of the form 10.x.x.x
 
 *   Plug an ethernet cable from LAN on your current router to LAN on the power supply, and from POE to the **secondary** input on the NanoStation.
 
 *   <a href="mailto:contact@dccommunitymeshinter.net">Email us</a> and we will check that everything is working.
 
 **Upgrades**  
-Upgrades are for when your router is already running nycmesh/qMp or another version of OpenWrt.
+Upgrades are for when your router is already running dcmesh/qMp or another version of OpenWrt.
 
 [WR842N upgrade download](/download/nycmesh_TP-Link-TL-WR842N-v2_sysupgrade_20150914-2017.bin)  
 [WDR3600 upgrade download](/download/nycmesh_TP-Link_TL-WDR3600-v1_sysupgrade_20150914-2023.bin)  
 [NSM5-XW upgrade download](/download/nycmesh_Ubiquiti_NanoStation-M5-XW_sysupgrade_20150915-1731.bin)
 
 **Older (2014 or earlier) XM NSM5s**  
-[NSM5-XM download](/download/NanoStationM5-nycmesh-factory-20150619_1751.bin)  
-[NSM5-XM upgrade download](/download/NanoStationM5-nycmesh-sysupgrade-20150619_1751.bin)
+[NSM5-XM download](/download/NanoStationM5-dcmesh-factory-20150619_1751.bin)  
+[NSM5-XM upgrade download](/download/NanoStationM5-dcmesh-sysupgrade-20150619_1751.bin)
 
 **Firmware**  
 [Our firmware](https://github.com/nycmeshnet) is based on [qMp](http://qmp.cat/), which is an [OpenWrt](https://openwrt.org/) package using [BMX6](http://bmx6.net/projects/bmx6) meshing protocol. Thanks to Roger at qMp for all of his help.

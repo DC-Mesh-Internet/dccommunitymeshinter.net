@@ -30,7 +30,7 @@ We have automated secure credit card transactions through Stripe. Individuals ca
 With management companies we send an invoice and they use their normal payment method (checks, ACH, credit cards etc)
  
 
-> *Does the building/management need to pay NYC Mesh on behalf of the residents, or can residents pay you directly?*
+> *Does the building/management need to pay DC Mesh on behalf of the residents, or can residents pay you directly?*
 
 
 Residents can pay directly, or we can invoice management. It's up to you.

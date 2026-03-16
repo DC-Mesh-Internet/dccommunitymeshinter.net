@@ -7,7 +7,7 @@ aliases: ["subsidized"]
 
 Thank you for installing a mesh node! 
 
-The NYC Mesh subsidized install cost is $15/month payed over 10 months. After 10 months it switches to a monthly donation. 
+The DC Mesh subsidized install cost is $30/month payed over 10 months. After 10 months it switches to a monthly donation. 
 
 Please also remember to pay the installer $50
 

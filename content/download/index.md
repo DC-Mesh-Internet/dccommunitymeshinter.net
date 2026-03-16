@@ -26,7 +26,7 @@ To join two rooftops you can use two NanoStation M5s. You can also just set up a
 
 **Legacy NanoStation NSM5 instructions**
 
-If you want to connect to a public access point, such as a Link NYC kiosk, there is no need to flash the router. Just follow [these instructions](/blog/public-access-points/).
+If you want to connect to a public access point, such as a Link DC kiosk, there is no need to flash the router. Just follow [these instructions](/blog/public-access-points/).
 
 (for old NSM5s or if you are upgrading see below)
 
@@ -59,7 +59,7 @@ Firstly you need to get your NSM5 back to AirOS 5.5.
 *   Click "Upload"
 *   You will get a "third-party" warning. Ignore this and click "Update"
 
-Wait ten minutes or so. It now has a SSID name like "-NYC Mesh- 1a2b" and a random IP of the form 10.x.x.x
+Wait ten minutes or so. It now has a SSID name like "-DC Mesh- 1a2b" and a random IP of the form 10.x.x.x
 
 *   Plug an ethernet cable from LAN on your current router to LAN on the power supply, and from POE to the **secondary** input on the NanoStation.
 
@@ -70,15 +70,15 @@ Wait ten minutes or so. It now has a SSID name like "-NYC Mesh- 1a2b" and a rand
 Now your router is flashed, read how to [install a NanoStation](https://docs.dccommunitymeshinter.net/installs/nsm5/)
 
 **Upgrades**  
-Upgrades are for when your router is already running nycmesh/qMp or another version of OpenWrt.
+Upgrades are for when your router is already running dcmesh/qMp or another version of OpenWrt.
 
 [WR842N upgrade download](/download/nycmesh_TP-Link-TL-WR842N-v2_sysupgrade_20150914-2017.bin)  
 [WDR3600 upgrade download](/download/nycmesh_TP-Link_TL-WDR3600-v1_sysupgrade_20150914-2023.bin)  
 [NSM5-XW upgrade download](/download/nycmesh_Ubiquiti_NanoStation-M5-XW_sysupgrade_20150915-1731.bin)
 
 **Older (2014 or earlier) XM NSM5s**  
-[NSM5-XM download](/download/NanoStationM5-nycmesh-factory-20150619_1751.bin)  
-[NSM5-XM upgrade download](/download/NanoStationM5-nycmesh-sysupgrade-20150619_1751.bin)
+[NSM5-XM download](/download/NanoStationM5-dcmesh-factory-20150619_1751.bin)  
+[NSM5-XM upgrade download](/download/NanoStationM5-dcmesh-sysupgrade-20150619_1751.bin)
 
 **Firmware**  
 [Our firmware](https://github.com/nycmeshnet) is based on [qMp](http://qmp.cat/), which is an [OpenWrt](https://openwrt.org/) package using [BMX6](http://bmx6.net/projects/bmx6) meshing protocol. Thanks to Roger at qMp for all of his help.
@@ -107,7 +107,7 @@ Here are our old TP-Link instructions in case you find an old TL-WR842N on ebay-
 *   Click System Tools>Firmware upgrade
 *   Click "choose file" and select the image you downloaded and click "upgrade"
 
-Wait ten minutes or so and connect to the router via Wi-Fi. It now has a SSID name like "nycmesh 1a2b" and a random IP of the form 10.x.x.x
+Wait ten minutes or so and connect to the router via Wi-Fi. It now has a SSID name like "dcmesh 1a2b" and a random IP of the form 10.x.x.x
 
 *   Plug an ethernet cable from LAN on your current router to the blue WAN on the TP-Link.
 

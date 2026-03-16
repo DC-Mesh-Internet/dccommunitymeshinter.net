@@ -55,11 +55,11 @@
         <summary class="gray f6 noselect pointer">Donate with check</summary>
           <p>Checks should be made out to</p>
           <p class="b">
-            NYC Mesh
+            DC Mesh
           </p>
           and mailed to:
           <p class="b">
-            NYC Mesh<br />
+            DC Mesh<br />
             91 East 3rd St<br />
             apt 35<br />
             New York, NY 10003
@@ -74,7 +74,7 @@
           Please <a href="../payquery/">fill in the support form</a> for donation questions or changes to your subscription.
         </p>
         <p>
-          NYC Mesh is a 501(c)(3) non-profit organization (EIN 84-2616395).  Your donations are tax-deductible to the full extent of the law.
+          DC Mesh is a 501(c)(3) non-profit organization (EIN 84-2616395).  Your donations are tax-deductible to the full extent of the law.
         </p>
       </div>
     </div>	
@@ -174,7 +174,7 @@
       if (parseInt(donationAmount) && donationAmount > 0) {
         handler = StripeCheckout.configure(stripeConfig);
         handler.open({
-          name: 'NYC Mesh',
+          name: 'DC Mesh',
           description: 'Donation',
           amount: donationAmount
         });
@@ -182,21 +182,21 @@
 
       else if (donationAmount == 'twenty-monthly')
         handler.open({
-          name: 'NYC Mesh',
+          name: 'DC Mesh',
           description: 'Monthly Donation',
           amount: 2000
         });
 
       else if (donationAmount == 'plan_FN3hkJAGUgYKpX')
         handler.open({
-          name: 'NYC Mesh',
+          name: 'DC Mesh',
           description: 'Monthly Donation',
           amount: 3000
         });
 
       else if (donationAmount == 'fifty-monthly')
         handler.open({
-          name: 'NYC Mesh',
+          name: 'DC Mesh',
           description: 'Monthly Donation',
           amount: 5000
         });

@@ -19,7 +19,7 @@ input[type=number]::-webkit-outer-spin-button {
     </div>
 
     <p>
-       The NYC Mesh installment plan is $40 per month for six months. After six months it will switch to an optional $20 per month donation. 
+       The DC Mesh installment plan is $40 per month for six months. After six months it will switch to an optional $20 per month donation. 
 <br>
 <br>
 Please remember to pay the installer <b>$50</b>.
@@ -79,7 +79,7 @@ Please remember to pay the installer <b>$50</b>.
       <!-- Donation Details -->
       <div class="gray serif pb3 pt2 mw6">
         <p class="f6 lh-copy i tc-l tl measure">
-          All donations will go towards our expenses and are tax deductible. NYC Mesh is a 501(c)(3) non-profit organization.
+          All donations will go towards our expenses and are tax deductible. DC Mesh is a 501(c)(3) non-profit organization.
         </p>
       </div>
     </div>	
@@ -212,7 +212,7 @@ Please remember to pay the installer <b>$50</b>.
       if (parseInt(donationAmount) && donationAmount > 0) {
         handler = StripeCheckout.configure(stripeConfig);
         handler.open({
-          name: 'NYC Mesh',
+          name: 'DC Mesh',
           description: '$40 installment plan',
           amount: donationAmount
         });

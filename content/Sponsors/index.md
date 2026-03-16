@@ -58,7 +58,7 @@ Anonymous
 <br>
 
 ---
-NYC Mesh is in need of the following:
+DC Mesh is in need of the following:
 ---
 
 [Donations](/donate)<br>

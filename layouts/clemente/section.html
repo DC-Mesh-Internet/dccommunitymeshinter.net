@@ -79,7 +79,7 @@ input[type=number]::-webkit-outer-spin-button {
       <!-- Donation Details -->
       <div class="gray serif pb3 pt2 mw6">
         <p class="f6 lh-copy i tc-l tl measure">
-          All donations will go towards our expenses and are tax deductible. NYC Mesh is a 501(c)(3) non-profit organization.
+          All donations will go towards our expenses and are tax deductible. DC Mesh is a 501(c)(3) non-profit organization.
         </p>
       </div>
     </div>	
@@ -212,7 +212,7 @@ input[type=number]::-webkit-outer-spin-button {
       if (parseInt(donationAmount) && donationAmount > 0) {
         handler = StripeCheckout.configure(stripeConfig);
         handler.open({
-          name: 'NYC Mesh',
+          name: 'DC Mesh',
           description: '$10 subscription',
           amount: donationAmount
         });
