@@ -99,7 +99,7 @@ Upgrades are for when your router is already running dcmesh/qMp or another versi
 [NSM5-XM upgrade download](/download/NanoStationM5-dcmesh-sysupgrade-20150619_1751.bin)
 
 **Firmware**  
-[Our firmware](https://github.com/nycmeshnet) is based on [qMp](http://qmp.cat/), which is an [OpenWrt](https://openwrt.org/) package using [BMX6](http://bmx6.net/projects/bmx6) meshing protocol. Thanks to Roger at qMp for all of his help.
+[Our firmware](https://github.com/DC-Mesh-Internet) is based on [qMp](http://qmp.cat/), which is an [OpenWrt](https://openwrt.org/) package using [BMX6](http://bmx6.net/projects/bmx6) meshing protocol. Thanks to Roger at qMp for all of his help.
 
 **Am I on the mesh?**  
 A quick test to see if you are on the mesh is to go here-

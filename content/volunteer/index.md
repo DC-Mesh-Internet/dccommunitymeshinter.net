@@ -49,7 +49,7 @@ Network administrators deal with deeper level network configuration and plan ove
 **Website / Wiki Writers and Developers [#website](TODO) and [#wiki](TODO)**
 Help us improve our website and documentation by working to keep it up to date and by suggesting edits and building new pages.
 
-The [DC Mesh website](https://github.com/nycmeshnet/dccommunitymeshinter.net) (what you're reading right now!) is written in markdown and hosted with Hugo. We use Github to collaboratively develop the website - both are easy to learn.
+The [DC Mesh website](https://github.com/DC-Mesh-Internet/dccommunitymeshinter.net) (what you're reading right now!) is written in markdown and hosted with Hugo. We use Github to collaboratively develop the website - both are easy to learn.
 
 The [DC Mesh Wiki](https://wiki.nycmesh/net) is our central repository of configuration instructions, guides, lists and general knowledge documentation. The Wiki is hosted with Bookstack and allows anyone to easily edit it without any coding experience. You just need to make an account and you can edit the pages with a simple web interface.
 

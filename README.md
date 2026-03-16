@@ -42,4 +42,4 @@ hugo new presentations/presentation-title.md
 
 ## Map
 
-The code for the map is located [here](https://github.com/nycmeshnet/node-map).
+The code for the map is located [here](https://github.com/DC-Mesh-Internet/node-map).
