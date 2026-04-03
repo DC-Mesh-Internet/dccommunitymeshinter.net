@@ -10,7 +10,7 @@ alertURL: "https://status.dccommunitymeshinter.net/"
 
 ## Join our community network!
 
-## <a href="https://forms.gle/Heqaar8NdgBSYyRx9" class="purple"> Initial interest form </a>
+## <a href="https://cryptpad.fr/form/#/2/form/view/eOMeHt+lpoC1FFOCJqbFa2DnI2-CVB5zIP1F4iw3dus/ class="purple"> Initial interest form </a>
 
 ## <a href="/roadmap" class="red"> View Road Map for current progress </a>
 
